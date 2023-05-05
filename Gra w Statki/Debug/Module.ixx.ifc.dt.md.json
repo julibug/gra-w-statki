@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\julia\\source\\repos\\b26482d0-gr11-repo\\projekt\\gra w statki\\module.ixx",
+        "ProvidedModule": "Module",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\string",
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\iostream",
+            "C:\\Users\\julia\\source\\repos\\b26482d0-gr11-repo\\Projekt\\Gra w Statki\\Plansza.h"
+        ]
+    }
+}

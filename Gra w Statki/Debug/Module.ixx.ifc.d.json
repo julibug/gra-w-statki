@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\julia\\source\\repos\\b26482d0-gr11-repo\\projekt\\gra w statki\\module.ixx",
+        "ProvidedModule": "Module",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\string",
+                "BMI": "C:\\Users\\julia\\source\\repos\\b26482d0-gr11-repo\\Projekt\\Gra w Statki\\Debug\\string_SBKUD8WNBCFE85HH.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\iostream",
+                "BMI": "C:\\Users\\julia\\source\\repos\\b26482d0-gr11-repo\\Projekt\\Gra w Statki\\Debug\\iostream_QAGGE4B12ZC9CRFI.ifc"
+            },
+            {
+                "Header": "c:\\users\\julia\\source\\repos\\b26482d0-gr11-repo\\projekt\\gra w statki\\plansza.h",
+                "BMI": "C:\\Users\\julia\\source\\repos\\b26482d0-gr11-repo\\Projekt\\Gra w Statki\\Debug\\Plansza.h_NSGMFA0FZKZV4T9E.ifc"
+            }
+        ]
+    }
+}

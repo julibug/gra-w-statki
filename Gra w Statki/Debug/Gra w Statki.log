@@ -1,0 +1,19 @@
+﻿  Czteromasztowiec.cpp
+  Dwumasztowiec.cpp
+  Gra w Statki.cpp
+C:\Users\julia\Documents\GitHub\gra-w-statki\Gra w Statki\Gra w Statki.cpp(90,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\julia\Documents\GitHub\gra-w-statki\Gra w Statki\Gra w Statki.cpp(113,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Jednomasztowiec.cpp
+  Kierunek.cpp
+  Komorka.cpp
+  Plansza.cpp
+C:\Users\julia\Documents\GitHub\gra-w-statki\Gra w Statki\Plansza.cpp(62,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Pomocnicza.cpp
+C:\Users\julia\Documents\GitHub\gra-w-statki\Gra w Statki\Pomocnicza.cpp(6,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Statek.cpp
+  Trzymasztowiec.cpp
+  Generowanie kodu...
+C:\Users\julia\Documents\GitHub\gra-w-statki\Gra w Statki\Trzymasztowiec.cpp(36): warning C4715: "Trzymasztowiec::wzorzec”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\julia\Documents\GitHub\gra-w-statki\Gra w Statki\Dwumasztowiec.cpp(36): warning C4715: "Dwumasztowiec::wzorzec”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\julia\Documents\GitHub\gra-w-statki\Gra w Statki\Czteromasztowiec.cpp(36): warning C4715: "Czteromasztowiec::wzorzec”: niewszystkie ścieżki kodu zwracają wartość
+  Gra w Statki.vcxproj -> C:\Users\julia\Documents\GitHub\gra-w-statki\Gra w Statki\Debug\Gra w Statki.exe
