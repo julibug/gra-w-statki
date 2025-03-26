@@ -1,3 +1,5 @@
+# Gra w statki
+
 **Battleship** turn-based game where you face off against the computer in a classic naval battle. Your goal is to sink all enemy ships before your own fleet is destroyed! This version runs in the console and is built in **C++**.  
 
 ---
